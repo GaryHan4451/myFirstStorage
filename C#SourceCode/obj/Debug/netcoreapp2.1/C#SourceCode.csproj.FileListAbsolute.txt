@@ -1,0 +1,11 @@
+E:\LocalStorage\C#SourceCode\bin\Debug\netcoreapp2.1\C#SourceCode.deps.json
+E:\LocalStorage\C#SourceCode\bin\Debug\netcoreapp2.1\C#SourceCode.runtimeconfig.json
+E:\LocalStorage\C#SourceCode\bin\Debug\netcoreapp2.1\C#SourceCode.runtimeconfig.dev.json
+E:\LocalStorage\C#SourceCode\bin\Debug\netcoreapp2.1\C#SourceCode.dll
+E:\LocalStorage\C#SourceCode\bin\Debug\netcoreapp2.1\C#SourceCode.pdb
+E:\LocalStorage\C#SourceCode\obj\Debug\netcoreapp2.1\C#SourceCode.csprojAssemblyReference.cache
+E:\LocalStorage\C#SourceCode\obj\Debug\netcoreapp2.1\C#SourceCode.csproj.CoreCompileInputs.cache
+E:\LocalStorage\C#SourceCode\obj\Debug\netcoreapp2.1\C#SourceCode.AssemblyInfoInputs.cache
+E:\LocalStorage\C#SourceCode\obj\Debug\netcoreapp2.1\C#SourceCode.AssemblyInfo.cs
+E:\LocalStorage\C#SourceCode\obj\Debug\netcoreapp2.1\C#SourceCode.dll
+E:\LocalStorage\C#SourceCode\obj\Debug\netcoreapp2.1\C#SourceCode.pdb
