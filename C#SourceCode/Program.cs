@@ -8,7 +8,7 @@ namespace C_SourceCode
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("this is really a sexy girl");
-            console.WriteLine("Crazy,this is a new world");
+            Console.WriteLine("Crazy,this is a new world");
         }
     }
 }
